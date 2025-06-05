@@ -1,0 +1,18 @@
+Suite: stable
+Codename: stable
+Date: Thu, 05 Jun 2025 10:59:23 UTC
+Architectures: amd64
+Components: main
+Description: My custom local repo
+MD5Sum:
+ 130101581a7746ca56af447378055740 387 main/binary-amd64/Packages
+ 451876086689fa64e61718d8c91f5eee 305 main/binary-amd64/Packages.gz
+ 39ba6adf40e2ac17293f5f9840431295 86 main/binary-amd64/Release
+SHA1:
+ 66aafa38ef762affc171a9dde5ea58ba8b74470c 387 main/binary-amd64/Packages
+ 7930bfb0e7ca24f28c1f05750d07a4b4dfaf0d8c 305 main/binary-amd64/Packages.gz
+ b7dda040c689a27d8500923fe67e0261574b34d4 86 main/binary-amd64/Release
+SHA256:
+ a973056732868ab621bb83abcad3764139f6c76a363c87398b8a43862f4c400e 387 main/binary-amd64/Packages
+ 106aa499e2d668c2cf25a143b5d2912238d11e493a8ebbae4953fd184fd20136 305 main/binary-amd64/Packages.gz
+ b91004c556390dfd740beaa1e7be40f1969a5c43845095041d9b8b3df85e7f2a 86 main/binary-amd64/Release

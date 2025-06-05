@@ -1,0 +1,13 @@
+Package: myapp
+Version: 1.0
+Architecture: all
+Maintainer: Jawad Saber jawad.saber@viguard.de
+Priority: optional
+Section: base
+Filename: pool/main/m/myapp/myapp_1.0_all.deb
+Size: 820
+SHA256: f70a756d1e9f44d471ac25b3f1526a2984f5b61056d88983b90c290cc12fb2c8
+SHA1: 042ecbfa83be8c4d6028fb4ec387b9a648bc92c7
+MD5sum: 3107c08ec1d67f05b311f48c4d5fd50b
+Description: Mein benutzerdefiniertes Tool
+
